@@ -1,0 +1,4 @@
+interface:
+  display_name: "交互式学习 Skill"
+  short_description: "基于 2 Sigma 与掌握学习的一对一个性化学习工作流。"
+  default_prompt: "我想学一个新主题，请使用交互式学习 Skill 为我规划路径并生成第一课。"
