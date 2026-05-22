@@ -1,0 +1,4 @@
+interface:
+  display_name: "交互式学习 Skill Plus"
+  short_description: "基于掌握学习、错题追踪和间隔复习的一对一个性化学习工作流。"
+  default_prompt: "我想学一个新主题，请使用交互式学习 Skill 为我规划路径、生成第一课，并记录后续复习计划。"
